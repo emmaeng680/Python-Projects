@@ -1,6 +1,4 @@
 # Emmanuel A Oppong
-# CS Assignment 2
-# NYU Abu Dhabi
 # 13th October, 2022
 
 import random, os, time
