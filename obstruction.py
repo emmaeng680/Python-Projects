@@ -1,6 +1,4 @@
 # Emmanuel A Oppong
-# CS Assignment 1
-# NYU Abu Dhabi
 #29th September, 2022
 
 
