@@ -737,6 +737,7 @@ def putChecker(player_ch):
 			#checks if a column full and prints whats below
 			elif colFull(str) == True:
 				print("Column", str, "is full, Enter a different column letter")
+				return
 
 
 
